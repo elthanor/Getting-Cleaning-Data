@@ -24,6 +24,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ##Guide
 1. Download and unzip the data in your working directory as well as the `run_analysis.R` script from this repository.
-2. Execute `source("run_analysis.R")`.
+2. Execute `source("run_analysis.R")`
+
 It will create a file called `Averages by Activities & Subjects.txt` which will contain the tidy data.
 For the execution of the script the `plyr` package is required.
